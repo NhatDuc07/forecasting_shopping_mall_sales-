@@ -1,0 +1,18 @@
+name: forecasting
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - optuna
+  - numpy
+  - matplotlib
+  - pip
+  - seaborn
+  - pandas
+  - lightgbm
+  - python
+  - shap
+  - jupyter
+  - streamlit
+prefix: /home/nhatduc/miniconda3/envs/forecasting
