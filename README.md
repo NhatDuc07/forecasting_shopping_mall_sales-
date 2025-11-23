@@ -8,7 +8,7 @@
 
 
 ## Result 
-- A notebook for data processing, feature engineering, modelling and evaluationLightGBM model
+- A notebook for data processing, feature engineering, modelling and evaluationLightGBM model (Read step by step of this project in the notebook)
 - SHAP explainability visuals  in 
 
 [View the report](../report/SHAP_report.md)
